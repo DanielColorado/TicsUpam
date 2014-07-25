@@ -1,0 +1,61 @@
+Sistemas de soporte a las decisiones (SSD).
+
+Ayuda a las empresas a sus objetivos de crear ventajas  competitivas, debido a que son sistemas basados en computadoras que brindan a los usuarios. 
+DSS
+Combina modelos y datos para intentar resolver problemas utilizando una interfaz amigable para el usuario
+Características:
+•	Provee soporte para decisiones independientes,
+•	Fácil interacción,
+•	Son efectivos y no eficientes,
+•	Ayuda, más no va a reemplazar al humano,
+•	Accesos a datos.
+Beneficios:
+•	Mejora el entendimiento del negocio,
+•	Habilidad para análisis,
+•	Respuesta rápida en situaciones inesperadas.
+
+SIA 
+•	Provee reportes basados en flujos de datos periódicos.
+•	Asistente en el control general de la organización.
+
+SSD
+•	Enfocados al cambio, la flexibilidad y la respuesta rápida, énfasis en modelos, supuestos, consultas ad hoc y despliegue de gráficos.
+
+
+
+
+Tipos de sistemas de apoyo a la toma de decisiones:
+
+a)	SDD orientado a modelos
+•	Sistema stand-alone (solo un usuario),
+•	Usan modelos para realizar preguntas y otros tipos de análisis.
+b)	SSD orientado a datos
+•	Permite a los usuarios extraer y analizar información útil oculta previamente en grandes bases de datos,
+•	Usan técnica OLAP y extracción de datos.
+c)	OLAP (procesamiento analítico en línea)
+•	Análisis multidimensional que apoya solicitudes de información mucho más complejas.
+d)	Extracción de datos
+•	Orientada al descubrimiento de patrones y relaciones.
+•	Tipos de extracción de datos
+i.	Asociaciones
+•	Ocurrencias vinculadas con un evento único.
+ii.	Secuencias
+•	Eventos vinculados con el tiempo.
+iii.	Clasificaciones
+•	Ocurrencia vinculada con un evento único.
+iv.	Agrupaciones
+•	Trabaja de manera parecida a la clasificación cuando aún no se ha definido ningún grupo. 
+v.	Pronósticos.
+
+Componentes de un SSD:
+
+a)	Base de datos del SSD:
+•	Colección de datos históricos o actuales que pueden residir en una PC o un enorme almacén de datos.
+b)	Software de un SSD
+•	Colección de herramientas de software usadas para análisis de datos (OLAP), extracción de datos o conjunto de modelos matemáticos y analíticos. 
+•	Interfaz de usuario: interacción de fácil manejo.
+c)	Modelo
+•	Representación abstracta que ilustra los componentes o las relaciones de un fenómeno.
+d)	Análisis de sensibilidad
+•	Modelo que pregunta para determinar el impacto sobre los resultados por los cambios en uno o más factores. 
+
